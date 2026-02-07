@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as python developer <br>Dome projects in automation trading stratagies whole algo systems <br><br>Web scraping, <br>Web development <br>Telegram bots <br>And learning Blockchain and cyber security 
+Working as python developer <br>Done projects in automation trading stratagies whole algo systems <br><br>Web scraping, <br>Web development <br>Telegram bots <br>And learning Blockchain and cyber security 
 
 
 ## 🌐 Socials:
